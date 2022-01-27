@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecureSpeak", "SecureSpeak.csproj", "{092BAA76-7B12-4DDA-B8F0-7D4F0F89767A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{092BAA76-7B12-4DDA-B8F0-7D4F0F89767A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092BAA76-7B12-4DDA-B8F0-7D4F0F89767A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092BAA76-7B12-4DDA-B8F0-7D4F0F89767A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092BAA76-7B12-4DDA-B8F0-7D4F0F89767A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF3E03D-3772-4E98-839D-B18405D9C654}
+	EndGlobalSection
+EndGlobal
